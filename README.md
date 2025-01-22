@@ -1,0 +1,1 @@
+# High-Frequency-trading-based-on-Directional-Change-Intrinsic-Time
